@@ -2,11 +2,11 @@
 # https://docs.netlify.com/routing/redirects/redirect-options/
 
 # newsletter
-/subscribe https:///blast
-/newsletter https:///blast
-/fanclub https:///blast
-/news https:///blast
-/blast https:///blast
+/subscribe https://buttondown.email/taptapkaboom
+/newsletter https://buttondown.email/taptapkaboom
+/fanclub https://buttondown.email/taptapkaboom
+/news https://buttondown.email/taptapkaboom
+/blast https://buttondown.email/taptapkaboom
 
 /layerart http://skl.sh/2flvRLL
 /story /about
