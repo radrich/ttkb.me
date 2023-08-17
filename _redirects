@@ -256,3 +256,7 @@
 /sk-invite https://www.skillshare.com/en/r/user/taptapkaboom?gr_tch_ref=on&gr_trp=on
 /go https://taptapkaboom.com
 /explorative-design-sk https://skl.sh/2Luk4I2
+
+
+# default if nothing else
+/ https://www.taptapkaboom.com
