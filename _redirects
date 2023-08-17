@@ -252,7 +252,6 @@
 /ig https://www.instagram.com/taptapkaboom/
 /cm-liquid-bgs https://creativemarket.com/taptapkaboom/3500051-20-Hot-Abstract-Liquid-Backgrounds
 /digital-marbling-sk https://skl.sh/2GGHl9w
-/fan https://buttondown.email/taptapkaboom
 /sk-invite https://www.skillshare.com/en/r/user/taptapkaboom?gr_tch_ref=on&gr_trp=on
 /go https://taptapkaboom.com
 /explorative-design-sk https://skl.sh/2Luk4I2
@@ -260,4 +259,4 @@
 
 # default if nothing else
 / https://www.taptapkaboom.com/#links
-/* https://www.taptapkaboom.com/404
+#/* https://www.taptapkaboom.com/404
