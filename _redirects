@@ -1,6 +1,9 @@
 # redirects
 # https://docs.netlify.com/routing/redirects/redirect-options/
 
+/ig-rich https://www.instagram.com/richarmstr_ong
+/x-rich https://www.twitter.com/richarmstr_ong
+
 # newsletter
 /subscribe https://buttondown.email/taptapkaboom
 /newsletter https://buttondown.email/taptapkaboom
